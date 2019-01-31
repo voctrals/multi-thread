@@ -1,4 +1,4 @@
-package study.voctrals.semaphore.basic;
+package study.voctrals.tools.semaphore.basic;
 
 /**
  * Semaphore，信号量，用来控制并发数
@@ -23,7 +23,7 @@ public class SemaphoreTest {
                     System.out.println(Thread.currentThread().getName() + " before acquire~");
                     most5.acquire();
                     System.out.println(Thread.currentThread().getName() + " after acquire~");
-                    Thread.sleep(1000);
+                    Thread.sleep(2000);
                     System.out.println(Thread.currentThread().getName() + " before release~");
                     most5.release();
                     System.out.println(Thread.currentThread().getName() + " after release~");

@@ -1,4 +1,4 @@
-package study.voctrals.semaphore.playground;
+package study.voctrals.tools.semaphore.playground;
 
 public class MainTest {
 

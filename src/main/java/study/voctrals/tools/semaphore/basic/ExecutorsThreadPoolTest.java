@@ -1,4 +1,4 @@
-package study.voctrals.semaphore.basic;
+package study.voctrals.tools.semaphore.basic;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
