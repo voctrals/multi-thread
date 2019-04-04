@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>study.voctrals</groupId>
-    <artifactId>multi-thread</artifactId>
+    <artifactId>what_is_multithread</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
